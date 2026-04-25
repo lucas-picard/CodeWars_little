@@ -1,18 +1,18 @@
 # 💻 Projets Codewars
 
-## 🧠 À propos
+##  À propos
 
 Voici quelques projets que j’ai réalisés sur Codewars, adaptés pour une exécution visuelle dans VS Code.
 
 J’ai effectué bien plus d’exercices sur Codewars que ceux présents ici, mais ils ne sont pas tous inclus dans ce repository.
 
-## 🎯 Parcours
+##  Parcours
 
 - Réalisation de katas de différents niveaux  
 - Niveau maximum atteint : 4 kyu en C++  
 - Pratique régulière de la résolution de problèmes  
 
-## ⚙️ Technologies utilisées
+##  Technologies utilisées
 
 - C++ (principalement)
 
