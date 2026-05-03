@@ -22,4 +22,4 @@ Ces projets reflètent une partie de mon travail sur Codewars, avec une adaptati
 
 ## En savoir plus
 
-Si vous voulez en 
+Si vous voulez en savoir
