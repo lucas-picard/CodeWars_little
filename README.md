@@ -15,7 +15,7 @@ J’ai effectué bien plus d’exercices sur Codewars que ceux présents ici, ma
 ##  Technologies utilisées
 
 - C++ (principalement)
------
+----
 ## 📌 Remarque
 
 Ces projets reflètent une partie de mon travail sur Codewars, avec une adaptation pour un usage local et une meilleure visualisation dans VS Code.
