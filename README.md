@@ -7,7 +7,7 @@ Voici quelques projets que j’ai réalisés sur Codewars, adaptés pour une ex�
 J’ai effectué bien plus d’exercices sur Codewars que ceux présents ici, mais ils ne sont pas tous inclus dans ce repository.
 
 ##  Parcours
-ù*ùm*m*m*m*
+
 - Réalisation de katas de différents niveaux  
 - Niveau maximum atteint : 4 kyu en C++  
 - Pratique régulière de la résolution de problèmes  
