@@ -22,4 +22,4 @@ Ces projets reflètent une partie de mon travail sur Codewars, avec une adaptati
 
 ## En savoir plus
 
-Si vous voulez en savoir plus allez sur https://www.codewars.com/users/Looskas
+Pour en savoir plus vous pouvez vous rendre sur mon compte CodeWars qui ce trouve ici -> https://www.codewars.com/users/Looskas
